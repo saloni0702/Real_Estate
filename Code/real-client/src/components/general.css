@@ -1,0 +1,117 @@
+.steps{
+    height: 80px;
+    width: 800px;
+    border: 1px solid white;
+    margin-left: 300px;
+    border-radius: 50px;
+
+}
+
+.step1{
+    margin-left: 100px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 50px;
+     box-shadow: 5px 3px 5px 3px  rgb(107, 102, 102);
+}
+
+.step2{
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 50px;
+    background-color: white;
+    box-shadow: 5px 3px 5px 3px  rgb(107, 102, 102);
+}
+
+.h3{
+    margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.cancelbtn{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(61, 188, 238);
+    color: white;
+    border-radius: 20px;
+    border:none;
+    box-shadow: 3px 5px 4px  rgb(119, 118, 118);
+    cursor: pointer;
+}
+
+.savebtn{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(41, 41, 148);
+    color: white;
+    border-radius: 20px;
+    border: none;
+    margin-left: 50px;
+    box-shadow: 3px 4px 4px  rgb(107, 102, 102);
+    cursor: pointer;
+}
+.basicbtns{
+    margin-top: 50px;
+    padding-left: 150px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin-left: 150px;
+}
+.B{
+    display: inline-block;
+   justify-content: center;
+}
+
+.PT{
+    padding-right: 50px;
+    padding-left: 100px;
+    margin-top: 40px;
+    margin-left: 250px;
+    justify-content: space-between;
+    display:flex;
+    align-items: center;
+    height: 40px;
+    width: 250px;
+    justify-content: space-around;
+}
+.BasicInfo{
+    margin-top: 50px;
+    width: 950px;
+    height: auto;
+    justify-content: center;
+    border: 2px solid white;
+    margin-left: 280px;
+    box-shadow: 5px 3px 5px 3px  rgb(107, 102, 102);
+}
+.PT, .textinput{
+    background-color: white;
+}
+.property{
+   padding-left: 10px;
+    border-radius: 10px;
+    color: rgb(96, 103, 103);
+    justify-content: space-between;
+    background-color: white;
+    width: 400px;
+    height: 35px;
+    /* align-items: center; */
+}
+.PT ,.inputtxt{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    color: rgb(107, 101, 101);
+}
+.divide{
+    margin-left: 50px;
+}
+
+.imageFile{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+

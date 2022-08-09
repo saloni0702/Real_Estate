@@ -1,0 +1,111 @@
+
+.header2 {
+  margin-left: 200px;  
+  width: 1080px;
+  height:75px;
+  left:10px;
+  background-color: white;
+  border: 2px solid rgb(208, 236, 236);
+}
+
+.id{
+  display: flex;
+  margin-left: 55px;
+  margin-top: 25px;
+}
+.dropDown{
+     width: 20px;
+    border: none;
+    margin-right: 10px;
+  }
+  
+.heading1{
+  display: flex;
+  float: right;
+  margin-right: 10px;
+  
+}
+.heading1 p{
+  margin-right: 10px;
+}
+/*.user{
+  background-color: white;
+  margin: 10px;
+  margin-left:10px;
+}*/
+
+.icon{
+  display: inline;
+  padding-left: 10px;
+  float:left;
+  background-color: white;
+
+}
+
+.dropdown{
+  margin-left: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .header {
+    overflow: hidden;
+    background-color: black;
+    padding: 20px 10px;
+    width: 200px;
+  }
+  .header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  .header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  /* Change the background color on mouse-over */
+  /* .header a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Style the active/current link*/
+  /* .header a.active {
+    background-color: dodgerblue;
+    color: white;
+  } */
+  
+  /* Float the link section to the right */
+  /* .header-right {
+    float: right;
+  } */ 

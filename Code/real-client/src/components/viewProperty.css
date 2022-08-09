@@ -1,0 +1,65 @@
+.box10{
+  display: flex;
+}
+
+.search-bar{
+  width: 200px;
+  margin-left: 250px;
+  margin-top: 20px ;
+  display: flex;
+  border-radius: 50px;
+  border: 1px solid white;
+  align-items: center;
+  box-shadow: 2px 3px 3px 2px rgb(119, 118, 118);
+}
+
+.search-bar input{
+  background: transparent;
+  flex: 1;
+  border: 0;
+  outline: none;
+  padding: 10px 10px;
+  font-size: 10px;
+}
+
+.search-bar button{
+  height: 25px;
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+  margin-right: 10px;
+  background-color: white;
+}
+
+.button25{
+    width: 200px;
+    height: 35px;
+    color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 600px;
+    border:none;
+    background-color: rgb(61, 188, 238);
+    box-shadow: 3px 5px 4px  rgb(119, 118, 118);
+    cursor: pointer;
+}
+
+.BasicInfo2{
+    margin-top: 50px;
+    width: 1000px;
+    height: auto;
+    justify-content: center;
+    border: 2px solid white;
+    margin-left: 250px;
+    box-shadow: 5px 3px 5px 3px  rgb(107, 102, 102);
+    
+}
+
+.sold{
+  background-color: rgb(81, 200, 290);
+  border: 1px solid white;
+  border-radius: 10px;
+  height: 30px;
+  width: 50px;
+  cursor: pointer;
+}
